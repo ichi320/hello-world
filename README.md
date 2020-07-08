@@ -8,5 +8,7 @@ This is added comment.
 Gitチュートリアル
 # Gitチュートリアル
 
+ - feature-A
  - fix-B
+ - feature-C
 HI
