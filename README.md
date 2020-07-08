@@ -6,4 +6,7 @@ Thanks for the first experience.
 This is added comment.
 変更3回目。
 Gitチュートリアル
+# Gitチュートリアル
+
+ - fix-B
 HI
